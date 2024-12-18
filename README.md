@@ -10,6 +10,7 @@ This repository contains analyses comparing neoadjuvant and upfront treatment st
 - [Usage](#usage)
 - [Key Implementations](#key-implementations)
 - [References](#references)
+- [Research Paper](#research-paper)
 - [License](#license)
 
 ## Project Overview
@@ -66,6 +67,12 @@ The project aims to evaluate and compare the effectiveness of neoadjuvant versus
 ## References
 
 - Refer to `Reference article and other IMP info.docx` for detailed references and important information related to the analyses.
+
+## Research Paper
+
+This project is inspired by the research paper titled **"Neoadjuvant therapy versus upfront surgery for potentially resectable pancreatic cancer: A Markov decision analysis"** by Alison Bradley and Robert Van Der Meer, published in *PLOS ONE* on February 28, 2019. 
+
+You can access the full research paper [here](https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0212805&type=printable).
 
 ## License
 
