@@ -33,7 +33,7 @@ The project aims to evaluate and compare the effectiveness of neoadjuvant versus
 
    ```bash
    git clone https://github.com/klsavaj/PSP-Neoadjuvant-v-s-Upfront-Markov-Cohort-Analysis.git
-   cd PSP-Neoadjuvant-v-s-Upfront-Markov-Cohort-Analysis
+   cd PSP-Neoadjuvant-Vs-Upfront-Markov-Cohort-Analysis
    ```
 
 2. **Set Up the Environment**:
